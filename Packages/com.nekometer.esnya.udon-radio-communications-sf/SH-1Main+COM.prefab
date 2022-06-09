@@ -24,6 +24,37 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: b4107e4648ae24840a4531e6ce9f1bd1,
         type: 2}
+    - target: {fileID: 358066617177483864, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: eventName
+      value: _IncrementFrequency
+      objectReference: {fileID: 0}
+    - target: {fileID: 358066617177483864, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: desktopKey
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 358066617177483864, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: audioSource
+      value: 
+      objectReference: {fileID: 314204415170110176}
+    - target: {fileID: 358066617177483864, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: eventTarget
+      value: 
+      objectReference: {fileID: 8447660845301456911}
+    - target: {fileID: 358066617177483864, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: enableDesktopKey
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 358066617177483864, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 358066617177483864, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
     - target: {fileID: 986577561173162702, guid: 722a8583ae674644896e71f3cb756af1,
         type: 3}
       propertyPath: _syncMethod
@@ -53,6 +84,37 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: c6c0b64e514086644b232e646f4c2e4b,
         type: 2}
+    - target: {fileID: 2811041260066041497, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: eventName
+      value: _ToggleReceive
+      objectReference: {fileID: 0}
+    - target: {fileID: 2811041260066041497, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: desktopKey
+      value: 108
+      objectReference: {fileID: 0}
+    - target: {fileID: 2811041260066041497, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: audioSource
+      value: 
+      objectReference: {fileID: 314204415170110176}
+    - target: {fileID: 2811041260066041497, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: eventTarget
+      value: 
+      objectReference: {fileID: 8447660845301456911}
+    - target: {fileID: 2811041260066041497, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: enableDesktopKey
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2811041260066041497, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 2811041260066041497, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
     - target: {fileID: 3284912196118640318, guid: 722a8583ae674644896e71f3cb756af1,
         type: 3}
       propertyPath: _syncMethod
@@ -86,6 +148,37 @@ PrefabInstance:
       propertyPath: m_Name
       value: SFVehicleTransceiver_SH-1_Gunner
       objectReference: {fileID: 0}
+    - target: {fileID: 4673545212813703910, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: eventName
+      value: _ToggleTransmit
+      objectReference: {fileID: 0}
+    - target: {fileID: 4673545212813703910, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: desktopKey
+      value: 112
+      objectReference: {fileID: 0}
+    - target: {fileID: 4673545212813703910, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: audioSource
+      value: 
+      objectReference: {fileID: 314204415170110176}
+    - target: {fileID: 4673545212813703910, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: eventTarget
+      value: 
+      objectReference: {fileID: 8447660845301456911}
+    - target: {fileID: 4673545212813703910, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: enableDesktopKey
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4673545212813703910, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 4673545212813703910, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
     - target: {fileID: 5159560890243818401, guid: 722a8583ae674644896e71f3cb756af1,
         type: 3}
       propertyPath: _syncMethod
@@ -120,6 +213,80 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: b4107e4648ae24840a4531e6ce9f1bd1,
         type: 2}
+    - target: {fileID: 6088612649634786461, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: receiver
+      value: 
+      objectReference: {fileID: 8854434865793818283}
+    - target: {fileID: 6088612649634786461, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: exclusive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6088612649634786461, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: transmitter
+      value: 
+      objectReference: {fileID: 8961071218127487224}
+    - target: {fileID: 6088612649634786461, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: frequencyText
+      value: 
+      objectReference: {fileID: 442437208147080241}
+    - target: {fileID: 6088612649634786461, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 6088612649634786461, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+    - target: {fileID: 6344896842116885232, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: inVehicleOnly
+      value: 
+      objectReference: {fileID: 8588764640662330535}
+    - target: {fileID: 6344896842116885232, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: seatedPlayerOnly
+      value: 
+      objectReference: {fileID: 6142191180005582454}
+    - target: {fileID: 6344896842116885232, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 6344896842116885232, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+    - target: {fileID: 6602914414678790713, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: sync
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6602914414678790713, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: indicator
+      value: 
+      objectReference: {fileID: 5672941000015667417}
+    - target: {fileID: 6602914414678790713, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: limitRange
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6602914414678790713, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 6602914414678790713, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+    - target: {fileID: 6710109450552888426, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: indicator
+      value: 
+      objectReference: {fileID: 6042913844675873244}
+    - target: {fileID: 6710109450552888426, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 6710109450552888426, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
     - target: {fileID: 6968134552331055767, guid: 722a8583ae674644896e71f3cb756af1,
         type: 3}
       propertyPath: _syncMethod
@@ -137,6 +304,38 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 16d8d728c99f04a4c9c1522bb3a992a5,
         type: 2}
+    - target: {fileID: 7243123258561202602, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: eventName
+      value: _DecrementFrequency
+      objectReference: {fileID: 0}
+    - target: {fileID: 7243123258561202602, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: audioSource
+      value: 
+      objectReference: {fileID: 314204415170110176}
+    - target: {fileID: 7243123258561202602, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: eventTarget
+      value: 
+      objectReference: {fileID: 8447660845301456911}
+    - target: {fileID: 7243123258561202602, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 7243123258561202602, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+    - target: {fileID: 7933157064116132688, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: transceiver
+      value: 
+      objectReference: {fileID: 8447660845301456911}
+    - target: {fileID: 7933157064116132688, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 7933157064116132688, guid: 722a8583ae674644896e71f3cb756af1,
+        type: 3}
     - target: {fileID: 8738495459310256371, guid: 722a8583ae674644896e71f3cb756af1,
         type: 3}
       propertyPath: programSource
@@ -200,6 +399,84 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 722a8583ae674644896e71f3cb756af1, type: 3}
+--- !u!114 &8447660845301456911 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6088612649634786461, guid: 722a8583ae674644896e71f3cb756af1,
+    type: 3}
+  m_PrefabInstance: {fileID: 2396766255005895826}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81a2556e5dbb32242b3b4b4f20d8ac28, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &8854434865793818283 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6602914414678790713, guid: 722a8583ae674644896e71f3cb756af1,
+    type: 3}
+  m_PrefabInstance: {fileID: 2396766255005895826}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 767ad6e146819394aaf141568b58f401, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &8961071218127487224 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6710109450552888426, guid: 722a8583ae674644896e71f3cb756af1,
+    type: 3}
+  m_PrefabInstance: {fileID: 2396766255005895826}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98a6c27f972c24744aae89638aaf7a56, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &8588764640662330535 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6229162020585345077, guid: 722a8583ae674644896e71f3cb756af1,
+    type: 3}
+  m_PrefabInstance: {fileID: 2396766255005895826}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &442437208147080241 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2837510199575623843, guid: 722a8583ae674644896e71f3cb756af1,
+    type: 3}
+  m_PrefabInstance: {fileID: 2396766255005895826}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &5672941000015667417 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8068572556303264843, guid: 722a8583ae674644896e71f3cb756af1,
+    type: 3}
+  m_PrefabInstance: {fileID: 2396766255005895826}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6042913844675873244 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8259522645569504590, guid: 722a8583ae674644896e71f3cb756af1,
+    type: 3}
+  m_PrefabInstance: {fileID: 2396766255005895826}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &6142191180005582454 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8394274712028457700, guid: 722a8583ae674644896e71f3cb756af1,
+    type: 3}
+  m_PrefabInstance: {fileID: 2396766255005895826}
+  m_PrefabAsset: {fileID: 0}
+--- !u!82 &314204415170110176 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 2674928678447083122, guid: 722a8583ae674644896e71f3cb756af1,
+    type: 3}
+  m_PrefabInstance: {fileID: 2396766255005895826}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &3370399925228740598
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -412,6 +689,21 @@ PrefabInstance:
         type: 3}
     - target: {fileID: 5695413857654158265, guid: b15ac940e1c4d934f81546cc3bed689d,
         type: 3}
+      propertyPath: YawThrustVecMulti
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5695413857654158265, guid: b15ac940e1c4d934f81546cc3bed689d,
+        type: 3}
+      propertyPath: RollThrustVecMulti
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5695413857654158265, guid: b15ac940e1c4d934f81546cc3bed689d,
+        type: 3}
+      propertyPath: PitchThrustVecMulti
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5695413857654158265, guid: b15ac940e1c4d934f81546cc3bed689d,
+        type: 3}
       propertyPath: serializationData.Prefab
       value: 
       objectReference: {fileID: 5695413857654158265, guid: b15ac940e1c4d934f81546cc3bed689d,
@@ -440,6 +732,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 6752737178806314442, guid: b15ac940e1c4d934f81546cc3bed689d,
         type: 3}
+    - target: {fileID: 7403881663383824660, guid: b15ac940e1c4d934f81546cc3bed689d,
+        type: 3}
+      propertyPath: ColliderEnableDelay
+      value: 0.08
+      objectReference: {fileID: 0}
     - target: {fileID: 7403881663383824660, guid: b15ac940e1c4d934f81546cc3bed689d,
         type: 3}
       propertyPath: serializationData.Prefab
@@ -671,6 +968,37 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: ae38224ddfa80e34bb07372e96e0741e,
         type: 2}
+    - target: {fileID: 2264715713843319642, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: eventName
+      value: _ToggleReceive
+      objectReference: {fileID: 0}
+    - target: {fileID: 2264715713843319642, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: desktopKey
+      value: 108
+      objectReference: {fileID: 0}
+    - target: {fileID: 2264715713843319642, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: audioSource
+      value: 
+      objectReference: {fileID: 9000957867893428340}
+    - target: {fileID: 2264715713843319642, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: eventTarget
+      value: 
+      objectReference: {fileID: 975463601189032603}
+    - target: {fileID: 2264715713843319642, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: enableDesktopKey
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2264715713843319642, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 2264715713843319642, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
     - target: {fileID: 2973089561228012549, guid: a8ebd153792582b4bad70a61985cc644,
         type: 3}
       propertyPath: programSource
@@ -717,6 +1045,37 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: b4107e4648ae24840a4531e6ce9f1bd1,
         type: 2}
+    - target: {fileID: 4366004956656408475, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: eventName
+      value: _IncrementFrequency
+      objectReference: {fileID: 0}
+    - target: {fileID: 4366004956656408475, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: desktopKey
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 4366004956656408475, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: audioSource
+      value: 
+      objectReference: {fileID: 9000957867893428340}
+    - target: {fileID: 4366004956656408475, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: eventTarget
+      value: 
+      objectReference: {fileID: 975463601189032603}
+    - target: {fileID: 4366004956656408475, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: enableDesktopKey
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4366004956656408475, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 4366004956656408475, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
     - target: {fileID: 4695687070010506544, guid: a8ebd153792582b4bad70a61985cc644,
         type: 3}
       propertyPath: programSource
@@ -778,6 +1137,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6230463460444366483, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: transceiver
+      value: 
+      objectReference: {fileID: 975463601189032603}
+    - target: {fileID: 6230463460444366483, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 6230463460444366483, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
     - target: {fileID: 6403266154831466324, guid: a8ebd153792582b4bad70a61985cc644,
         type: 3}
       propertyPath: _syncMethod
@@ -795,6 +1165,101 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 16d8d728c99f04a4c9c1522bb3a992a5,
         type: 2}
+    - target: {fileID: 6695603510114432105, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: eventName
+      value: _DecrementFrequency
+      objectReference: {fileID: 0}
+    - target: {fileID: 6695603510114432105, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: audioSource
+      value: 
+      objectReference: {fileID: 9000957867893428340}
+    - target: {fileID: 6695603510114432105, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: eventTarget
+      value: 
+      objectReference: {fileID: 975463601189032603}
+    - target: {fileID: 6695603510114432105, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 6695603510114432105, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+    - target: {fileID: 6945302550045022003, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: inVehicleOnly
+      value: 
+      objectReference: {fileID: 1118299887604362803}
+    - target: {fileID: 6945302550045022003, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: seatedPlayerOnly
+      value: 
+      objectReference: {fileID: 3281125663861134562}
+    - target: {fileID: 6945302550045022003, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 6945302550045022003, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+    - target: {fileID: 7191530063776444410, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: sync
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7191530063776444410, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: indicator
+      value: 
+      objectReference: {fileID: 3895545463574073933}
+    - target: {fileID: 7191530063776444410, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: limitRange
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7191530063776444410, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 7191530063776444410, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+    - target: {fileID: 7309387476792111529, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: indicator
+      value: 
+      objectReference: {fileID: 3128077723904998216}
+    - target: {fileID: 7309387476792111529, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 7309387476792111529, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+    - target: {fileID: 7786768984409231710, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: receiver
+      value: 
+      objectReference: {fileID: 167989593346419775}
+    - target: {fileID: 7786768984409231710, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: exclusive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7786768984409231710, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: transmitter
+      value: 
+      objectReference: {fileID: 353966836241281644}
+    - target: {fileID: 7786768984409231710, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: frequencyText
+      value: 
+      objectReference: {fileID: 9121564364671600293}
+    - target: {fileID: 7786768984409231710, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 7786768984409231710, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
     - target: {fileID: 8074422667412339807, guid: a8ebd153792582b4bad70a61985cc644,
         type: 3}
       propertyPath: _syncMethod
@@ -817,6 +1282,37 @@ PrefabInstance:
       propertyPath: m_Name
       value: SFVehicleTransceiver_SH-1
       objectReference: {fileID: 0}
+    - target: {fileID: 8697846490224084773, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: eventName
+      value: _ToggleTransmit
+      objectReference: {fileID: 0}
+    - target: {fileID: 8697846490224084773, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: desktopKey
+      value: 112
+      objectReference: {fileID: 0}
+    - target: {fileID: 8697846490224084773, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: audioSource
+      value: 
+      objectReference: {fileID: 9000957867893428340}
+    - target: {fileID: 8697846490224084773, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: eventTarget
+      value: 
+      objectReference: {fileID: 975463601189032603}
+    - target: {fileID: 8697846490224084773, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: enableDesktopKey
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8697846490224084773, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 8697846490224084773, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
     - target: {fileID: 9220346849664736866, guid: a8ebd153792582b4bad70a61985cc644,
         type: 3}
       propertyPath: _syncMethod
@@ -836,3 +1332,81 @@ PrefabInstance:
         type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a8ebd153792582b4bad70a61985cc644, type: 3}
+--- !u!114 &975463601189032603 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7786768984409231710, guid: a8ebd153792582b4bad70a61985cc644,
+    type: 3}
+  m_PrefabInstance: {fileID: 7032832444437873605}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81a2556e5dbb32242b3b4b4f20d8ac28, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &167989593346419775 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7191530063776444410, guid: a8ebd153792582b4bad70a61985cc644,
+    type: 3}
+  m_PrefabInstance: {fileID: 7032832444437873605}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 767ad6e146819394aaf141568b58f401, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &353966836241281644 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7309387476792111529, guid: a8ebd153792582b4bad70a61985cc644,
+    type: 3}
+  m_PrefabInstance: {fileID: 7032832444437873605}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98a6c27f972c24744aae89638aaf7a56, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &1118299887604362803 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7934599317028580854, guid: a8ebd153792582b4bad70a61985cc644,
+    type: 3}
+  m_PrefabInstance: {fileID: 7032832444437873605}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &9121564364671600293 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2238268873949513056, guid: a8ebd153792582b4bad70a61985cc644,
+    type: 3}
+  m_PrefabInstance: {fileID: 7032832444437873605}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &3895545463574073933 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6311339873575391624, guid: a8ebd153792582b4bad70a61985cc644,
+    type: 3}
+  m_PrefabInstance: {fileID: 7032832444437873605}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &3128077723904998216 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5399967434107304077, guid: a8ebd153792582b4bad70a61985cc644,
+    type: 3}
+  m_PrefabInstance: {fileID: 7032832444437873605}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &3281125663861134562 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5481238845956790055, guid: a8ebd153792582b4bad70a61985cc644,
+    type: 3}
+  m_PrefabInstance: {fileID: 7032832444437873605}
+  m_PrefabAsset: {fileID: 0}
+--- !u!82 &9000957867893428340 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 2121319280032371633, guid: a8ebd153792582b4bad70a61985cc644,
+    type: 3}
+  m_PrefabInstance: {fileID: 7032832444437873605}
+  m_PrefabAsset: {fileID: 0}

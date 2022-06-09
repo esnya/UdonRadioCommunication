@@ -7,6 +7,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2264715713843319642, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 2264715713843319642, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+    - target: {fileID: 4366004956656408475, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 4366004956656408475, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
     - target: {fileID: 5146760381466975306, guid: a8ebd153792582b4bad70a61985cc644,
         type: 3}
       propertyPath: m_RootOrder
@@ -62,10 +74,52 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6230463460444366483, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 6230463460444366483, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+    - target: {fileID: 6695603510114432105, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 6695603510114432105, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+    - target: {fileID: 6945302550045022003, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 6945302550045022003, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+    - target: {fileID: 7191530063776444410, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 7191530063776444410, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+    - target: {fileID: 7309387476792111529, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 7309387476792111529, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+    - target: {fileID: 7786768984409231710, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 7786768984409231710, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
     - target: {fileID: 8695935339262680928, guid: a8ebd153792582b4bad70a61985cc644,
         type: 3}
       propertyPath: m_Name
       value: SFVehicleTransceiver_SH-1_Gunner
       objectReference: {fileID: 0}
+    - target: {fileID: 8697846490224084773, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 8697846490224084773, guid: a8ebd153792582b4bad70a61985cc644,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a8ebd153792582b4bad70a61985cc644, type: 3}
